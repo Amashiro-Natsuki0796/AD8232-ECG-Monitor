@@ -1,0 +1,15 @@
+[Unit]
+Description=ECG Serial Plotter with Framebuffer
+After=graphical-session.target
+
+[Service]
+Type=simple
+User=builder
+Group=builder
+ExecStart=/home/builder/AD8232-Pi/test/ecg_serial_plotter_fb
+WorkingDirectory=/home/builder/AD8232-Pi/test
+Restart=always
+RestartSec=5
+
+[Install]
+WantedBy=multi-user.target
