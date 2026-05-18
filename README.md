@@ -91,10 +91,11 @@ We provide 3D models for housing the electronics in a dedicated enclosure:
 - Bottom.STL - Bottom cover
 - Stent.STL - Internal support structure
 
-These SolidWorks models (.SLDPRT and .STL formats) are located in the `Shell Model` directory and can be 3D printed to create an enclosure for the ECG monitor.
+These SolidWorks models are located in the `Shell Model` directory and can be 3D printed to create an enclosure for the ECG monitor.
 
 ## Demonstration Video
 Watch the demonstration videos to see the ECG monitor in action:
+
 [Development Phase](Attachment/ENG.mp4)
 [Demo Video](Attachment/Demo.mp4)
 
@@ -107,6 +108,3 @@ As an alternative to PC-side visualization, Python-based plotting tools are prov
 Remote monitoring: `Attachment/ECG_network_plotter.py`
 ESP8266 serial plotting: `Attachment/ECG_serial_plotter.py`
 Host-side simulation data sending: `Attachment/ECG_simulator.py`
-
-# Disclaimer:
-This project is for learning and reference purposes only and cannot be used in professional medical fields. The author does not assume any responsibility if users violate the agreement.
