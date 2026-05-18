@@ -107,3 +107,6 @@ As an alternative to PC-side visualization, Python-based plotting tools are prov
 Remote monitoring: `Attachment/ECG_network_plotter.py`
 ESP8266 serial plotting: `Attachment/ECG_serial_plotter.py`
 Host-side simulation data sending: `Attachment/ECG_simulator.py`
+
+# Disclaimer:
+This project is for learning and reference purposes only and cannot be used in professional medical fields. The author does not assume any responsibility if users violate the agreement.
