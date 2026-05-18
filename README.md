@@ -105,10 +105,13 @@ Watch the demonstration videos to see the ECG monitor in action:
 
 ## Alternative Display Solutions
 As an alternative to PC-side visualization, Python-based plotting tools are provided:
+
 Remote monitoring: 
 `Attachment/ECG_network_plotter.py`
+
 ESP8266 serial plotting: 
 `Attachment/ECG_serial_plotter.py`
+
 Host-side simulation data sending: 
 `Attachment/ECG_simulator.py`
 
