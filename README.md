@@ -91,10 +91,11 @@ We provide 3D models for housing the electronics in a dedicated enclosure:
 - Bottom.STL - Bottom cover
 - Stent.STL - Internal support structure
 
-These SolidWorks models (.SLDPRT and .STL formats) are located in the `Shell Model` directory and can be 3D printed to create an enclosure for the ECG monitor.
+These SolidWorks models are located in the `Shell Model` directory and can be 3D printed to create an enclosure for the ECG monitor.
 
 ## Demonstration Video
 Watch the demonstration videos to see the ECG monitor in action:
+
 [Development Phase](Attachment/ENG.mp4)
 [Demo Video](Attachment/Demo.mp4)
 
