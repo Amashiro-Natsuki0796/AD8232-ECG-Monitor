@@ -2,8 +2,8 @@ CC = gcc
 CFLAGS = -Wall -Wextra -std=c99 -O2
 LIBS = -lm
 
-TARGET = ecg_serial_plotter_fb
-SOURCE = ecg_serial_plotter_fb.c
+TARGET = Main
+SOURCE = Main.c
 
 $(TARGET): $(SOURCE)
 	$(CC) $(CFLAGS) -o $(TARGET) $(SOURCE) $(LIBS)
